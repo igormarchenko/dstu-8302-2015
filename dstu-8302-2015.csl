@@ -32,15 +32,9 @@
         <single>Ред. </single>
         <multiple>Ред. </multiple>
       </term>
-      <term name="translator" form="short">
-        <single>Пер. </single>
-        <multiple>Пер. </multiple>
-      </term>
+      <term name="translator">Пер. </term>
       <term name="cited">цит. за</term>
-      <term name="editortranslator" form="short">
-        <single>Ред. і пер.</single>
-        <multiple>Ред. і пер. </multiple>
-      </term>
+      <term name="editortranslator"> Ред. і пер </term>
       <term name="interview">Інтерв'ю</term>
       <term name="no date">Без дати</term>
       <term name="season-01">Весна</term>
