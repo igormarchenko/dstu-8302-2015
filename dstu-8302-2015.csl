@@ -28,13 +28,8 @@
       <term name="sort_sheet_music">zzzzzzzzzzzzzzzz_20_sheet_music</term>
       <term name="sort_articles_and_books">zzzzzzzzzzzzzzzz_10_articles_and_books</term>
       <term name="sort_graphic">zzzzzzzzzzzzzzzz_40_graphic</term>
-      <term name="editor" form="short">
-        <single>Ред. </single>
-        <multiple>Ред. </multiple>
-      </term>
-      <term name="translator">Пер. </term>
+      
       <term name="cited">цит. за</term>
-      <term name="editortranslator"> Ред. і пер </term>
       <term name="interview">Інтерв'ю</term>
       <term name="no date">Без дати</term>
       <term name="season-01">Весна</term>
